@@ -3,11 +3,9 @@ A Stochastic Color Channel Based Attack to fool CNNs.
 
 ![IMAGE_DESCRIPTION](CCP_ATTACK.png)
 
-### CIFAR10
-This folder contains all the code related to Training and CCP attacks of CIFAR10 dataset. <br/>
-<b>CIFAR10/CIFAR10_over_ResNet56.ipynb - </b> This file contains the training of CIFAR10 over ResNet56 and Model evaluation of CCP attack under Fixed and Variable settings.<br/>
-<b>CIFAR10/CIFAR10_over_VGG16.ipynb - </b> This file contains the training of CIFAR10 over VGG16 and Model evaluation of CCP attack under Fixed and Variable settings.<br/>
-<b>CIFAR10/CIFAR10_over_DenseNet121.ipynb - </b> This file contains the training of CIFAR10 over DenseNet121 and Model evaluation of CCP attack under Fixed and Variable settings.<br/>
+### CODE
+This folder contains all the code related to Training and CCP attacks of CIFAR10, CALTECH256, TinayTmagenet datasets. <br/>
+
   
 
 ### CALTECH256
