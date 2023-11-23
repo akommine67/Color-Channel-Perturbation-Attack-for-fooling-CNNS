@@ -5,18 +5,3 @@ A Stochastic Color Channel Based Attack to fool CNNs.
 
 ### CODE
 This folder contains all the code related to Training and CCP attacks of CIFAR10, CALTECH256, TinayTmagenet datasets. <br/>
-
-  
-
-### CALTECH256
-This folder contains all the code related to Training and CCP attacks of CALTECH256 dataset. <br/>
-<b>CALTECH256/CALTECH256_over_ResNet18.ipynb - </b> This file contains the training of CALTECH256 over ResNet18 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
-<b>CALTECH256/CALTECH256_over_VGG19.ipynb - </b> This file contains the training of CALTECH256 over VGG19 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
-<b>CALTECH256/CALTECH256_over_DenseNet121.ipynb - </b> This file contains the training of CALTECH256 over DenseNet121 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
-  
-  
-### TinyImagenet
-This folder contains all the code related to Training and CCP attacks of TinyImagenet dataset. <br/>
-<b>TinyImagenet/TinyImagenet_over_ResNet101.ipynb - </b> This file contains the training of TinyImagenet over ResNet101 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
-<b>TinyImagenet/TinyImagenet_over_VGG16.ipynb - </b> This file contains the training of TinyImagenet over VGG16 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
-<b>TinyImagenet/TinyImagenet_over_DenseNet121.ipynb - </b> This file contains the training of TinyImagenet over DenseNet121 and Model evaluation of CCP attack under Fixed and Variable settings. <br/>
